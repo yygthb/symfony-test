@@ -1,0 +1,7 @@
+index:
+  path: /
+  controller: App\Controller\PageController::index
+
+vue:
+  path: /vue
+  controller: App\Controller\PageController::vue
