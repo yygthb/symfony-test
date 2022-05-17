@@ -5,3 +5,7 @@ index:
 vue:
   path: /vue
   controller: App\Controller\PageController::vue
+
+get:
+  path: /api/get
+  controller: App\Controller\ApiController::getjson
